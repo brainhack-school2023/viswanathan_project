@@ -7,7 +7,7 @@ width="100px;" alt=""/>
    <br /><sub><b>subhasriviswa</b></sub>
 </a>
 
-# Project Pith - Resting State Functional network connectivity changes of adoloscents who are at risk for addiction. 
+# Project Pitch - Resting State Functional network connectivity changes of adoloscents who are at risk for addiction. 
 ## Background
 Adolescence is characterized by significant brain developmental changes and I am interested in understanding the functional network connectivity changes from a developmental perspective and explore the influence of substance use on these developing brain networks. 
 
